@@ -1,9 +1,8 @@
 ## Getting Started
-To start using the `piano-tiles.py` script we need to first do some sutups.
+To start using the `piano-tiles.py` script, we need to first do some setups.
 
-## Setting up your Virtual Environment:
-
-I highly recomand creating your own venv before using the code, to do so, all you need to do is to execute the following command in your CMD.
+## Setting up your Virtual Environment (venv)
+I highly recomand creating your own `venv` before using the code, to do so, all you need to do is to execute the following command in your CMD.
 ```
 python -m venv /path/to/new/virtual/environment
 ```
